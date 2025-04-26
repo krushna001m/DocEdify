@@ -1,7 +1,7 @@
 
 # DocEdify
 
-> **DocEdify** is a smart document management and learning platform designed to simplify the organization, editing, and sharing of documents. It aims to enhance productivity for students, educators, and professionals through an intuitive, AI-assisted interface.
+ **DocEdify** is a smart document management and learning platform designed to simplify the organization, editing, and sharing of documents. It aims to enhance productivity for students, educators, and professionals through an intuitive, AI-assisted interface.
 
 ---
 
