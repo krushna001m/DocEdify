@@ -79,7 +79,6 @@ Feel free to open an Issue or submit a Pull Request if you want to improve **Doc
 
 ## 👨‍💻 Author
 
-- **Krushna Mengal**  
-  [GitHub](https://github.com/krushna001m)
-
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)
 ---
